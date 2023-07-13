@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "108789008827",
+    "project_id": "haradhaniya-pk",
+    "storage_bucket": "haradhaniya-pk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108789008827:android:f45c14b15b87bdcd9adc9e",
+        "android_client_info": {
+          "package_name": "com.haradhaniya.haradhaniyaseller1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108789008827-cidvd99gbduriqrdcg1a5r1uue1i9vfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYf-cqxZ9vBgtITIFxQVykhxIuItrZ0hA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108789008827-cidvd99gbduriqrdcg1a5r1uue1i9vfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

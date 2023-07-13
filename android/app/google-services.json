@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "271838805042",
+    "project_id": "dukandarapp-e171a",
+    "storage_bucket": "dukandarapp-e171a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271838805042:android:273dbd91c2ebcf8bb8902b",
+        "android_client_info": {
+          "package_name": "com.haradhaniya.haradhaniyaseller1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271838805042-6d032p2nnvn60ofl2m06f8l00sa124pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTI00E3UtcYJZ9NXnp_L03Gn0aDD4pAJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271838805042-6d032p2nnvn60ofl2m06f8l00sa124pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
